@@ -1,8 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=aj-ajaykumar)
-![ViewCount](https://views.whatilearened.today/views/github/aj-ajaykumar
-/
-IBM-Data-Science-Capstone-SpaceX.svg?cache=remove)
+![ViewCount]
 ![GitHub top language](https://img.shields.io/github/languages/top/Thomas-George-T/IBM-Data-Science-Professional-Certification?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/Thomas-George-T/IBM-Data-Science-Professional-Certification?style=flat)
 
